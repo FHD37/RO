@@ -1,0 +1,12 @@
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dossiers de compilation
+build/
+dist/
+
+# Fichiers à ignorer
+emsi.jpeg
